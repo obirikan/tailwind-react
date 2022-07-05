@@ -11,7 +11,7 @@ const Navbar = () => {
          </div>
          <div className='pr-8 md:block hidden'>
             <Link to='/' className='pr-4'>home</Link>
-            <Link to='/' className='pr-4'>about</Link>
+            <Link to='/About' className='pr-4'>about</Link>
             <Link to='/' className='pr-4'>contacts</Link>
             <Link to='/' className='pr-4'>friends</Link>
           </div>
